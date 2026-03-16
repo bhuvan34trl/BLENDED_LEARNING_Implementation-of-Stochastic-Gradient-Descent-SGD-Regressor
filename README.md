@@ -25,7 +25,8 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 /*
 Program to implement SGD Regressor for linear regression.
 Developed by: Bhuvanesh.K
-RegisterNumber:import pandas as pd
+RegisterNumber:25012516
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
@@ -62,7 +63,7 @@ plt.xlabel("Actual Prices")
 plt.ylabel("Predicted Prices")
 plt.title("Actual vs Predicted Prices using SGD Regressor")
 plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='red')
-plt.show() 25012516
+plt.show()
 */
 
 ```
