@@ -69,12 +69,12 @@ plt.show()
 ```
 
 ## Output:
+<img width="970" height="341" alt="image" src="https://github.com/user-attachments/assets/e4c956c9-1567-41b5-99b7-16af43f6f329" />
 
 
 <img width="1006" height="558" alt="image" src="https://github.com/user-attachments/assets/d8ebc26e-05ed-4a0d-8ec6-71fa4d7f8264" />
 
 
-## Result:
 
 ## Result:
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
